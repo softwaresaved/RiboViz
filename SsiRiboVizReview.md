@@ -145,7 +145,7 @@ To complement your recommended citation, add a `Citation.cff` file in [Citation 
 
 A basic example is in [Citation.cff](./Citation.cff), accompanying this report.
 
-See also [Appendix: Validating a `Citation.cff` file](#appendix-validating-a-citation-cff-file).
+See also [Appendix: Validating a `Citation.cff` file](#appendix-validating-a-citationcff-file).
 
 ---
 
@@ -421,7 +421,7 @@ gives:
 
 ### Automatically calculate memory-per-thread for `samtools` in `prepRiboviz.sh` 
 
-As described earlier in [Document how to set `samtools` memory-per-thread in `prepRiboviz.sh`](#document-how-to-set-samtools-memory-per-thread-in-prepriboviz-sh) a user may need to explcitly set the available memory per thread, based on the free memory available. Automating this would save the user from doing this manually. This could be easier still if `prepRiboviz.sh` was migrated to Python.
+As described earlier in [Document how to set `samtools` memory-per-thread in `prepRiboviz.sh`](#document-how-to-set-samtools-memory-per-thread-in-prepribovizsh) a user may need to explcitly set the available memory per thread, based on the free memory available. Automating this would save the user from doing this manually. This could be easier still if `prepRiboviz.sh` was migrated to Python.
 
 ### Port shell and Perl scripts to Python
 
