@@ -2,13 +2,13 @@
 
 Mike Jackson, The Software Sustainability Institute based on plan by Eilidh Grant, EPCC.
 
-23 August 2018
+28 August 2018
 
 ## Introduction
 
-This document describes proposed workplan for RiboViz development, based on Eilidh's original plan. It is formed of two phases: a refactoring phase and a new functionality phase. The intention is that the refactoring of RiboViz delivers a maintainable, usable suite of software which will then serve as a sound basis for the development of new functionality and, hopefully, enable RiboViz to contribute to novel research.
+This document describes proposed workplan for RiboViz development, based on Eilidh's original plan. It is formed of three phases: preparing RiboViz for refactoring, refactoring and the development of new functionality. The intention is that the refactoring of RiboViz delivers a maintainable, usable suite of software which will then serve as a sound basis for the development of new functionality and, hopefully, enable RiboViz to contribute to novel research.
 
-## Refactor RiboViz
+## Prepare RiboViz
 
 ### Extend documentation
 
@@ -52,6 +52,8 @@ This document describes proposed workplan for RiboViz development, based on Eili
   - Implement regression test suite.
   - Software and domain knowledge from RiboViz developers.
 * Effort: 1 week (may need revising depending on nature of fix required)
+
+## Refactor RiboViz
 
 ### Create Python package(s)
 
@@ -191,12 +193,15 @@ The total effort for each phase, and the plan as a whole, is:
 
 |  Wks | Task |
 | ---- | ---- |
-|      | Refactor RiboViz |
+|      | Prepare RiboViz |
 |      | |
 |  1   | Extend documentation |
 |  0.2 | Create RiboViz organisation on GitHub |
 |  2   | Implement regression test suite |
 |  1   | Fix summary bug |
+|      | |
+|      | Refactor RiboViz |
+|      | |
 |  3   | Create Python package(s) |
 |  3   | Create R package(s) |
 |  2   | Create workflow package |
