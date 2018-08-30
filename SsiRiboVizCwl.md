@@ -173,7 +173,7 @@ The [Common Workflow Language User Guide](https://www.commonwl.org/user_guide/) 
 
 I tried to run both the "hello world!" example using both the Common Workflow Language reference implementation, [cwltool](https://github.com/common-workflow-language/cwltool), and the implementation in the [Toil](https://toil.readthedocs.io) Python workflow engine. To download and run these took less than 30 minutes.
 
-See [Appendix - running a "hello world!" CWL workflow](#appendix-running-a-hello-world-cwl-workflow).
+See [Appendix: running a "hello world!" CWL workflow](#appendix-running-a-hello-world-cwl-workflow).
 
 ---
 
@@ -212,7 +212,7 @@ Leipzig, Jeremy (2017) "A review of bioinformatic pipeline frameworks". Briefing
 
 ---
 
-## Appendix - running a "hello world!" CWL workflow
+## Appendix: running a "hello world!" CWL workflow
 
 ### cwltool
 
