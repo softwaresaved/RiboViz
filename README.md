@@ -4,3 +4,4 @@ Documents produced by [The Software Sustainability Institute](https://www.softwa
 
 * [RiboViz Review](./SsiRiboVizReview.md)
 * [RiboViz Proposed Development Plan](./SsiRiboVizDevelopmentPlan.md)
+* [RiboViz and Common Workflow Language (CWL)](./SsiRiboVizCwl.md)
